@@ -1,2 +1,4 @@
 # Super-Store-Sales-Report
-Developed a comprehensive Superstore Sales Report using Power BI and MS Excel to analyse year on year sales performance, specifically focusing on time series analysis, to provide valuable insights .
+Developed a comprehensive Superstore Sales Report using Power BI and MS Excel to analyse year on year sales performance, specifically focusing on time series analysis, to provide valuable insights .Generated Dashboard highlighting key performance indicators such as Profit, average delivery days , sales revenue and showcasing profit by states using Map chart.Incorporated data analysis technique specializing in time series analysis, a 15-day sales forecast is generated using historical data and predictive analytics, providing actionable insights to guide inventory management and marketing strategies.Data modelling techniques is employed to generate insights into seasonal patterns and customer purchasing behaviour.The report enabled stakeholders to make informed business decisions and optimize sales strategies.
+
+
