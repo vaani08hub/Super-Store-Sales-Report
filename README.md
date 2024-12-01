@@ -19,7 +19,7 @@ Set Relationships: Defined relationships between tables for efficient data model
 Create Measures: Used DAX formulas to compute dynamic KPIs like Total Profit, Average Delivery Days, and Sales Revenue.
 
 4. Added visualizations for key metrics: Profit, Sales, and Average Delivery Days.
-Used a Map Chart to display Profit by State for geographical insights.
+ Used a Map Chart to display Profit by State for geographical insights.
 Enabled slicers and filters for dynamic analysis by product category, region, and time.
 
 5. Trend Analysis: Performed Time Series Analysis to identify sales trends and seasonal patterns.
